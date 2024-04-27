@@ -1,2 +1,7 @@
 *.class
 .vscode
+.idea
+
+/masteringthreads-0308
+
+*.iml
