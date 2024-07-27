@@ -1,8 +1,8 @@
 # Integer Cache
 
-JVM uses a caching mechanism referred to as ‘Integer cache’ to improve performance and reduce memory consumption.
+JVM uses a caching mechanism referred to as `Integer cache` to improve performance and reduce memory consumption.
 
-The caching range is set between -128 to 127. 
+The caching range is set between `-128 to 127`.
 
 Check this example:
 ```java
